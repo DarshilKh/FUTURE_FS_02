@@ -1,10 +1,31 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=140&section=header&animation=fadeIn" />
+
+# 🚀 LeadFlow Mini CRM — Future Interns Task 2
+
+### Full-Stack Lead Management System • MERN Stack
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Application;Secure+JWT+Authentication;Lead+Tracking+%2B+Analytics;Production-Ready+Architecture" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Auth-JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+
+</div>
+
+---
+
 # LeadFlow Mini CRM — Future Interns Task 2
 
 A full-stack Client Lead Management System built with the **MERN stack** (MongoDB, Express, React, Node.js).
 
 ---
 
-## Features
+## ✨ Features
 
 - **Secure Admin Login** — JWT-based authentication with bcrypt password hashing
 - **Lead Management** — Add, edit, delete, and view leads
@@ -16,7 +37,7 @@ A full-stack Client Lead Management System built with the **MERN stack** (MongoD
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
 | Layer     | Technology                  |
 |-----------|-----------------------------|
@@ -28,14 +49,14 @@ A full-stack Client Lead Management System built with the **MERN stack** (MongoD
 
 ---
 
-## Project Structure
+## 🗂️ Project Structure
 
 ```
 mini-crm/
 ├── backend/
 │   ├── models/         # Mongoose schemas (User, Lead)
 │   ├── routes/         # Express routes (auth, leads)
-│   ├── middleware/      # JWT protect middleware
+│   ├── middleware/     # JWT protect middleware
 │   ├── server.js       # Entry point
 │   ├── .env.example    # Environment variables template
 │   └── package.json
@@ -52,7 +73,7 @@ mini-crm/
 
 ---
 
-## Setup Instructions
+## 🚀 Setup Instructions
 
 ### Prerequisites
 - Node.js v18+
@@ -122,7 +143,7 @@ Frontend runs at: **http://localhost:3000**
 
 ---
 
-## API Endpoints
+## 🔌 API Endpoints
 
 ### Auth
 | Method | Endpoint            | Description       |
@@ -151,21 +172,29 @@ Frontend runs at: **http://localhost:3000**
 
 ---
 
-## Deployment Tips
+## 🚀 Deployment Tips
 
 - **Backend**: Deploy to Railway, Render, or Heroku. Set environment variables in the dashboard.
 - **Frontend**: Run `npm run build` then deploy the `build/` folder to Vercel or Netlify.
-- **Database**: Use [MongoDB Atlas](https://www.mongodb.com/atlas) (free tier) for a cloud DB.
+- **Database**: Use MongoDB Atlas (free tier) for a cloud DB.
 
 ---
 
-## Skills Demonstrated
+## 🧠 Skills Demonstrated
 
-- CRUD operations with REST API
-- JWT authentication & protected routes
-- React state management & Context API
-- MongoDB schema design with Mongoose
-- Frontend-backend integration via Axios
+- CRUD operations with REST API  
+- JWT authentication & protected routes  
+- React state management & Context API  
+- MongoDB schema design with Mongoose  
+- Frontend-backend integration via Axios  
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=100&section=footer" />
+
+</div>
 
 ---
 
